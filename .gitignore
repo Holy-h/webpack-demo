@@ -1,0 +1,12 @@
+## Ignore file ##
+
+# config data
+config.js
+python/config.py
+python/__pycache__
+
+/keys
+
+/node_modules
+.idea
+package-lock.json
