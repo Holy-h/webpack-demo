@@ -1,5 +1,0 @@
-#mypage-left{flex:none;width:240px;border-right:1px solid rgba(0, 0, 0, 0.1);padding:30px 40px;}
-#mypage-left>div{margin-bottom:32px;line-height:21px;font-size:14px;}
-#mypage-left>div>div{margin-bottom:12px;cursor:pointer;padding-left:16px;color:rgba(0,0,0,0.7)}
-#mypage-left>div>div:first-child{padding-left:0;color:#000;line-height:27px;font-size:18px;}
-#mypage-left>div>div.checked,#mypage-left>div>div:hover{-moz-text-decoration-line:underline;text-decoration-line: underline;}

@@ -3,7 +3,7 @@ import webpack from "webpack";
 import webpackDevMiddleware from "webpack-dev-middleware";
 
 const app = express();
-import config from "./webpack.config";
+import config from "./src/webpack.config";
 const compiler = webpack(config);
 
 // Tell express to use webpack-dev-middleware and use the webpack.config.js

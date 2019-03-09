@@ -1,9 +1,0 @@
-User-agent: *
-
-Disallow: /map/wordSentence
-Disallow: /admin
-Disallow: /error
-Disallow: /python
-Disallow: /api
-
-Sitemap: https://www.majormap.net/sitemap.xml

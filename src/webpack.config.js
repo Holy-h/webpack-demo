@@ -4,7 +4,7 @@ const CleanWebpackPlugin = require("clean-webpack-plugin");
 const ExtractCSS = require("extract-text-webpack-plugin");
 const autoprefixer = require("autoprefixer");
 
-const ENTRY_FILE = path.resolve(__dirname, "src", "main.js");
+const ENTRY_FILE = path.resolve(__dirname, "main.js");
 const OUTPUT_DIR = path.join(__dirname, "static");
 
 const config = {

@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev:server": "nodemon --exec babel-node init.js",
     "dev:assets": "webpack --mode=development -w",
-    "build:assets": "webpack --mode=production",
-    "build:server": "babel src --out-dir build --ignore 'src/public'",
+    "build:assets": "cd src && webpack --mode=production",
+    "build:server": "babel src --out-dir build --ignore 'src/public/css','src/public/data','src/public/fonts','src/public/img','src/public/lib/bootstrap/css','src/public/lib/font-awesome','src/public/lib/jquery-ui/jquery-ui.min.css','src/public/lib/owlcarousel/css'",
     "webpack:start": "webpack-dev-server --open",
     "server": "babel-node server.js",
     "build": "npm run build:server && npm run build:assets"
