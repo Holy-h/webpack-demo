@@ -11,3 +11,4 @@ python/__pycache__
 .idea
 package-lock.json
 static
+node_modules

@@ -1,0 +1,279 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>메이저맵</title>
+        <link>https://www.majormap.net</link>
+        <description>빛나는 당신의 미래를 탐색해보세요! 전국 모든 대학 학과에 대한 상세하고 재미있는 정보, 메이저맵</description>
+        <item>
+            <title>메이저맵 업데이트</title>
+            <link>/map/searchMap</link>
+            <description>학과지도페이지 업데이트</description>
+            <pubDate>Sat Jan 12 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Sat Jan 12 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>/map/searchMap</guid>
+        </item>
+        <item>
+            <title>신규 대학 18개교 추가</title>
+            <link>/user/notice</link>
+            <description>대학교 업데이트</description>
+            <pubDate>Thu Dec 13 2018 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Thu Dec 13 2018 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>/user/notice</guid>
+        </item>
+        <item>
+            <title>즐겨찾기 업데이트</title>
+            <link>/user/notice</link>
+            <description>서비스 업데이트</description>
+            <pubDate>Mon Nov 05 2018 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Mon Nov 05 2018 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>/user/notice</guid>
+        </item>
+        <item>
+            <title>한국교원대학교 업데이트</title>
+            <link>/map?school=%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9B%90%EB%8C%80%ED%95%99%EA%B5%90</link>
+            <description>대학교 업데이트</description>
+            <pubDate>Fri Nov 02 2018 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Fri Nov 02 2018 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>/map?school=%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9B%90%EB%8C%80%ED%95%99%EA%B5%90</guid>
+        </item>
+        <item>
+            <title>중앙대학교 업데이트</title>
+            <link>/map?school=%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90</link>
+            <description>대학교 업데이트</description>
+            <pubDate>Fri Nov 02 2018 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Fri Nov 02 2018 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>/map?school=%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90</guid>
+        </item>
+        <item>
+            <title>인하대학교 업데이트</title>
+            <link>/map?school=%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90</link>
+            <description>대학교 업데이트</description>
+            <pubDate>Fri Nov 02 2018 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Fri Nov 02 2018 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>/map?school=%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90</guid>
+        </item>
+        <item>
+            <title>경희대학교 업데이트</title>
+            <link>/map?school=%EA%B2%BD%ED%9D%AC%EB%8C%80%ED%95%99%EA%B5%90</link>
+            <description>대학교 업데이트</description>
+            <pubDate>Fri Nov 02 2018 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Fri Nov 02 2018 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>/map?school=%EA%B2%BD%ED%9D%AC%EB%8C%80%ED%95%99%EA%B5%90</guid>
+        </item>
+        <item>
+            <title>신규 대학교 3곳 업데이트</title>
+            <link>/user/notice</link>
+            <description>대학교 업데이트</description>
+            <pubDate>Tue Oct 02 2018 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Tue Oct 02 2018 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>/user/notice</guid>
+        </item>
+        <item>
+            <title>학과속성 업데이트</title>
+            <link>/user/notice</link>
+            <description>서비스 업데이트</description>
+            <pubDate>Tue Sep 18 2018 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Tue Sep 18 2018 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>/user/notice</guid>
+        </item>
+        <item>
+            <title>한국외국어대학교 업데이트</title>
+            <link>/map?school=%ED%95%9C%EA%B5%AD%EC%99%B8%EA%B5%AD%EC%96%B4%EB%8C%80%ED%95%99%EA%B5%90</link>
+            <description>대학교 업데이트</description>
+            <pubDate>Tue Sep 18 2018 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Tue Sep 18 2018 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>/map?school=%ED%95%9C%EA%B5%AD%EC%99%B8%EA%B5%AD%EC%96%B4%EB%8C%80%ED%95%99%EA%B5%90</guid>
+        </item>
+        <item>
+            <title>대입 전략도 占으로?…'학종 사주'까지 등장</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=015&aid=0004095561</link>
+            <description>대입 전략도 占으로?…'학종 사주'까지 등장</description>
+            <pubDate>Tue Feb 19 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Tue Feb 19 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=015&aid=0004095561</guid>
+        </item>
+        <item>
+            <title>이범 교육평론가 “체리피킹 문재인 정부, MB 교육정책 본받아야”</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=025&aid=0002885757</link>
+            <description>이범 교육평론가 “체리피킹 문재인 정부, MB 교육정책 본받아야”</description>
+            <pubDate>Tue Feb 19 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Tue Feb 19 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=025&aid=0002885757</guid>
+        </item>
+        <item>
+            <title>교육평론가 이범 “학종서 ‘수상실적’ 빼자… 전형요소 복합성 낮춰야”</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=028&aid=0002443456</link>
+            <description>교육평론가 이범 “학종서 ‘수상실적’ 빼자… 전형요소 복합성 낮춰야”</description>
+            <pubDate>Mon Feb 18 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Mon Feb 18 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=028&aid=0002443456</guid>
+        </item>
+        <item>
+            <title>2025 고교학점제 대입…수시·정시 통합안 나와</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=469&aid=0000365226</link>
+            <description>2025 고교학점제 대입…수시·정시 통합안 나와</description>
+            <pubDate>Mon Feb 18 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Mon Feb 18 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=469&aid=0000365226</guid>
+        </item>
+        <item>
+            <title>기승전 '대학입시'…그 중심에 선 학종 논란 [이슈+]</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003340435</link>
+            <description>기승전 '대학입시'…그 중심에 선 학종 논란 [이슈+]</description>
+            <pubDate>Fri Feb 15 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Fri Feb 15 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=022&aid=0003340435</guid>
+        </item>
+        <item>
+            <title>한 번 상담에 수십만 원…수시 확대에 입시 컨설팅 과열</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=056&aid=0010669671</link>
+            <description>한 번 상담에 수십만 원…수시 확대에 입시 컨설팅 과열</description>
+            <pubDate>Mon Feb 11 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Mon Feb 11 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=056&aid=0010669671</guid>
+        </item>
+        <item>
+            <title>[주말 돋보기] 드라마 '스카이(SKY)캐슬'이 던진 반향…특권층 '금수저 학종' 대입 공정성 논란 불 지피다</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=088&aid=0000574542</link>
+            <description>[주말 돋보기] 드라마 '스카이(SKY)캐슬'이 던진 반향…특권층 '금수저 학종' 대입 공정성 논란 불 지피다</description>
+            <pubDate>Fri Jan 25 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Fri Jan 25 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=088&aid=0000574542</guid>
+        </item>
+        <item>
+            <title>[2019 대입] 수시 합격 비결 설문조사…학생부 ‘교사’ㆍ논술 ‘학원 과외’ 도움 커</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=016&aid=0001490291</link>
+            <description>[2019 대입] 수시 합격 비결 설문조사…학생부 ‘교사’ㆍ논술 ‘학원 과외’ 도움 커</description>
+            <pubDate>Tue Jan 22 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Tue Jan 22 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=016&aid=0001490291</guid>
+        </item>
+        <item>
+            <title>[오늘 다시보기] 대입 문제지 도난 사건(1992)</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=214&aid=0000910259</link>
+            <description>[오늘 다시보기] 대입 문제지 도난 사건(1992)</description>
+            <pubDate>Mon Jan 21 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Mon Jan 21 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=214&aid=0000910259</guid>
+        </item>
+        <item>
+            <title>2020학년도 대입, 월별 흐름 알아야 성공 얻는다</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=088&aid=0000573462</link>
+            <description>2020학년도 대입, 월별 흐름 알아야 성공 얻는다</description>
+            <pubDate>Mon Jan 21 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Mon Jan 21 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=088&aid=0000573462</guid>
+        </item>
+        <item>
+            <title>[2020학년도 대입전형은 어떻게] 수시모집 9월 6~10일, 정시는 12월 26~31일 원서접수</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=082&aid=0000870595</link>
+            <description>[2020학년도 대입전형은 어떻게] 수시모집 9월 6~10일, 정시는 12월 26~31일 원서접수</description>
+            <pubDate>Fri Jan 18 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Fri Jan 18 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=082&aid=0000870595</guid>
+        </item>
+        <item>
+            <title>[뉴라밸] '스카이캐슬'의 나비효과, 드라마가 '학종' 개편 불씨될까</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=079&aid=0003186026</link>
+            <description>[뉴라밸] '스카이캐슬'의 나비효과, 드라마가 '학종' 개편 불씨될까</description>
+            <pubDate>Thu Jan 17 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Thu Jan 17 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=079&aid=0003186026</guid>
+        </item>
+        <item>
+            <title>(기고) 2019학년도 대입! 아직 끝나지 않았다.</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=009&aid=0004289647</link>
+            <description>(기고) 2019학년도 대입! 아직 끝나지 않았다.</description>
+            <pubDate>Wed Jan 16 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Wed Jan 16 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=009&aid=0004289647</guid>
+        </item>
+        <item>
+            <title>고교학점제 도입 가속화, 대입제도 개편 등 선결과제 '산더미'</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004160811</link>
+            <description>고교학점제 도입 가속화, 대입제도 개편 등 선결과제 '산더미'</description>
+            <pubDate>Wed Jan 16 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Wed Jan 16 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=014&aid=0004160811</guid>
+        </item>
+        <item>
+            <title>[SKY캐슬]①"억대 입시 코디, 어디서 찾을 수 있나요"</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=018&aid=0004288814</link>
+            <description>[SKY캐슬]①"억대 입시 코디, 어디서 찾을 수 있나요"</description>
+            <pubDate>Thu Jan 10 2019 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Thu Jan 10 2019 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=018&aid=0004288814</guid>
+        </item>
+        <item>
+            <title>교대 인기 '뚝뚝' … 정시 경쟁률 2대 1도 붕괴</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=277&aid=0004390865</link>
+            <description>교대 인기 '뚝뚝' … 정시 경쟁률 2대 1도 붕괴</description>
+            <pubDate>Wed Jan 09 2019 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Wed Jan 09 2019 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=277&aid=0004390865</guid>
+        </item>
+        <item>
+            <title>불수능에 SKY 정시 경쟁률↓…재수 선택으로 2020 대입 치열해질 듯</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=016&aid=0001483330</link>
+            <description>불수능에 SKY 정시 경쟁률↓…재수 선택으로 2020 대입 치열해질 듯</description>
+            <pubDate>Fri Jan 04 2019 00:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Fri Jan 04 2019 00:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=016&aid=0001483330</guid>
+        </item>
+        <item>
+            <title>아빠들 학종·지균 몰랐죠?…이젠 함께 대입 준비 어때요</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=081&aid=0002967423</link>
+            <description>아빠들 학종·지균 몰랐죠?…이젠 함께 대입 준비 어때요</description>
+            <pubDate>Wed Jan 02 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Wed Jan 02 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=081&aid=0002967423</guid>
+        </item>
+        <item>
+            <title>고교생 84% "고교 선택이 대입에도 영향 준다"</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0003765997</link>
+            <description>고교생 84% "고교 선택이 대입에도 영향 준다"</description>
+            <pubDate>Wed Jan 02 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Wed Jan 02 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0003765997</guid>
+        </item>
+        <item>
+            <title>대입 정시 `예측서비스`도 무한경쟁…페이백까지</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=009&aid=0004281224</link>
+            <description>대입 정시 `예측서비스`도 무한경쟁…페이백까지</description>
+            <pubDate>Tue Jan 01 2019 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Tue Jan 01 2019 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=009&aid=0004281224</guid>
+        </item>
+        <item>
+            <title>고교 시험지 유출 13개교 적발…유은혜 “교육비리 근절”</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=018&aid=0004273895</link>
+            <description>고교 시험지 유출 13개교 적발…유은혜 “교육비리 근절”</description>
+            <pubDate>Mon Dec 17 2018 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Mon Dec 17 2018 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=018&aid=0004273895</guid>
+        </item>
+        <item>
+            <title>수능 최저기준 미달…중위권 학력 떨어져</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=087&aid=0000737300</link>
+            <description>수능 최저기준 미달…중위권 학력 떨어져</description>
+            <pubDate>Mon Dec 17 2018 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Mon Dec 17 2018 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=087&aid=0000737300</guid>
+        </item>
+        <item>
+            <title>‘13시간 3분 점자 수능’ 김하선 양 연세대 합격</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=020&aid=0003187340</link>
+            <description>‘13시간 3분 점자 수능’ 김하선 양 연세대 합격</description>
+            <pubDate>Sat Dec 15 2018 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Sat Dec 15 2018 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=020&aid=0003187340</guid>
+        </item>
+        <item>
+            <title>[2019 대입] ‘의열치열’…불수능에 의ㆍ치대 경쟁 치열</title>
+            <link>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=016&aid=0001473976</link>
+            <description>[2019 대입] ‘의열치열’…불수능에 의ㆍ치대 경쟁 치열</description>
+            <pubDate>Sun Dec 09 2018 09:00:00 GMT+0900 (대한민국 표준시)</pubDate>
+            <lastBuildDate>Sun Dec 09 2018 09:00:00 GMT+0900 (대한민국 표준시)</lastBuildDate>
+            <guid>https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=016&aid=0001473976</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,17 @@
+#contents{width:100%;padding:60px 40px;}
+
+#contents>.form-title{text-align:center;margin-bottom:40px;font-size:24px;}
+#contents>.form-subtitle{text-align:center;margin-bottom:40px;font-size:14px;color:rgba(0,0,0,0.5)}
+#postForm{text-align: center;display:flex;flex-direction:column;justify-content:center;align-items:stretch;max-width:300px;margin:auto;}
+#postForm>button{-webkit-align-self:center;align-self:center;width:150px;height:40px;}
+#postForm input[type=radio]+i:before{content:"radio_button_unchecked";font-style:normal;font-size:16px;vertical-align: middle;}
+#postForm input[type=radio]:checked+i:before{content:"radio_button_checked"}
+
+#postForm .form-label{margin-bottom:20px;}
+.contrast{
+    -webkit-filter: contrast(4) invert(1);
+    -moz-filter: contrast(4) invert(1);
+    -o-filter: contrast(4) invert(1);
+    -ms-filter: contrast(4) invert(1);
+    filter: contrast(4) invert(1);
+}
