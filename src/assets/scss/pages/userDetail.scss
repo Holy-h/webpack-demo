@@ -1,0 +1,34 @@
+.user-profile {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  .user-profile__header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    .profile__username {
+      font-size: 16px;
+      margin-top: 32px;
+    }
+  }
+    .user-profile__btns {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      margin-top: 24px;
+      a:first-child {
+        margin-bottom: 8px;
+      }
+    }
+  .uploaded-videos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 16px;
+    margin-top: 32px;
+    max-width: 860px;
+  }
+    .videoBlock:not(:last-child) {
+      margin-bottom: 16px;
+    }
+}

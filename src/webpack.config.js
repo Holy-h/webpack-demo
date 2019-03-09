@@ -16,9 +16,9 @@ const config = {
   plugins: [
     new CleanWebpackPlugin(),
     // HTML 파일 자동 생성
-    new HtmlWebpackPlugin({
-      title: "Webpack setup"
-    }),
+    // new HtmlWebpackPlugin({
+    //   title: "Webpack setup"
+    // }),
     new ExtractCSS("styles.css"),
   ],
   output: {

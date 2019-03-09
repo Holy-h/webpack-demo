@@ -1,0 +1,13 @@
+extends layouts/main
+
+block content
+    .form-container
+        // Post 비밀로 유지해야 하기 때문
+        form(action=routes.join, method="post")
+            input(type="text", name="name", placeholder="이름을 입력하세요", required=true)
+            input(type="email", name="email", placeholder="이메일을 입력하세요", required=true)
+            input(type="password", name="password", placeholder="비밀번호를 입력하세요", required=true)
+            input(type="password", name="password2", placeholder="확인 비밀번호를 입력하세요", required=true)
+            input(type="submit", value="가입")
+        include partials/socialLogin
+        

@@ -1,0 +1,32 @@
+include ../mixins/message
+
+doctype html
+html
+    head
+        link(rel="stylesheet", href="https://use.fontawesome.com/releases/v5.6.3/css/all.css", integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/", crossorigin="anonymous")
+        link(rel="stylesheet", href="https://fonts.googleapis.com/icon?family=Material+Icons")
+        title #{pageTitle} | #{siteName}
+        link(rel="stylesheet", href="/static/styles.css")
+    body
+        if (messages.error)
+            +message({
+                type: "error",
+                text: messages.error
+            })
+        else if messages.info
+            +message({
+                type: "info",
+                text: messages.info
+            })
+        else if messages.success
+            +message({
+                type: "success",
+                text: messages.success
+            })
+        header
+            include ../partials/header
+        main
+            block content
+        include ../partials/footer
+        script(src="/static/main.js")
+            
