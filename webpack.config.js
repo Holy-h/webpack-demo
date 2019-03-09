@@ -8,6 +8,9 @@ module.exports = {
     print: "./src/print.js",
   },
   devtool: "inline-source-map",
+  devServer: {
+    contentBase: "./dist"
+  },
   plugins: [
     // new CleanWebpackPlugin(["dist/*"]) for < v2 versions of CleanWebpackPlugin
     new CleanWebpackPlugin(),
