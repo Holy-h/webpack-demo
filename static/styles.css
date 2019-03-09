@@ -1,4 +1,6 @@
 body {
+  background-color: red; }
+body {
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -11,7 +13,5 @@ body {
      -moz-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column; }
-body {
-  background-color: red; }
 
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
