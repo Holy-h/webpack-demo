@@ -1,10 +1,9 @@
 const path = require('path');
-const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CleanWebpackPlugin = require("clean-webpack-plugin");
 const ExtractCSS = require("extract-text-webpack-plugin");
 const autoprefixer = require("autoprefixer");
 
-const ENTRY_FILE = path.resolve(__dirname, "main.js");
+const ENTRY_FILE = path.resolve(__dirname, "assets", "js", "main.js");
 const OUTPUT_DIR = path.join(__dirname, "static");
 
 const config = {
@@ -15,10 +14,6 @@ const config = {
   },
   plugins: [
     new CleanWebpackPlugin(),
-    // HTML 파일 자동 생성
-    // new HtmlWebpackPlugin({
-    //   title: "Webpack setup"
-    // }),
     new ExtractCSS("styles.css"),
   ],
   output: {

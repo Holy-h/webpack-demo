@@ -1,4 +1,5 @@
 import express from "express";
+import "@babel/polyfill";
 import flash from "express-flash";
 import session from "express-session";
 import path from "path";

@@ -4,15 +4,14 @@
   "description": "",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev:server": "nodemon --exec babel-node src/init.js",
-    "dev:assets": "webpack --mode=development -w",
-    "build:assets": "cd src && webpack --mode=production",
-    "build:server": "babel src --out-dir build --ignore 'src/css'",
-    "webpack:start": "webpack-dev-server --open",
-    "server": "babel-node server.js",
-    "build": "npm run build:server && npm run build:assets && cp -R src/css build",
-    "prebuild": "rm -rf build"
+    "dev:server": "nodemon --exec babel-node src/init.js --delay 2 --ignore '.scss' --ignore 'static'",
+    "dev:assets": "cd src && webpack --mode=development -w",
+    "build:assets": "cd src && rm -rf static && webpack --mode=production",
+    "build:server": "babel src --out-dir build --ignore 'src/assets','src/static','src/webpack.config.js'",
+    "copyAll": "cp -R src/static build && cp -R src/views build",
+    "build": "npm run build:server && npm run build:assets && npm run copyAll",
+    "prebuild": "rm -rf build",
+    "start": "node build/init.js"
   },
   "keywords": [],
   "author": "",
