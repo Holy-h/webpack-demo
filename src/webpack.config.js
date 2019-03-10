@@ -9,17 +9,13 @@ const OUTPUT_DIR = path.join(__dirname, "static");
 const config = {
   entry: ["@babel/polyfill", ENTRY_FILE],
   devtool: "inline-source-map",
-  devServer: {
-    contentBase: "./static"
-  },
   plugins: [
     new CleanWebpackPlugin(),
-    new ExtractCSS("styles.css"),
+    new ExtractCSS("style.css"),
   ],
   output: {
     path: OUTPUT_DIR,
-    filename: '[name].js',
-    // publicPath: "/"
+    filename: '[name].js'
   },
   module: {
     rules: [
